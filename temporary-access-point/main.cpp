@@ -1,5 +1,7 @@
 /**
-* Cria um Access Point da sua internet via http request
+* Cria um Access Point da sua internet via http request.
+* Este projeto tem mapeado um display 16x2 para exibir o status do AP exibindo o IP que ele obteve da rede quando conectado corretamente.
+* Quando há o request na rota para criação do AP, o ESP32 exibe no display o SSID e Senha criados de forma aleatória.
 */
 
 
